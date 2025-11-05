@@ -1,0 +1,23 @@
+{
+  "name": "primer_ejemplo_gitflow_lucas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvazgar131/Primer_ejemplo_gitflow_lucas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvazgar131/Primer_ejemplo_gitflow_lucas/issues"
+  },
+  "homepage": "https://github.com/lvazgar131/Primer_ejemplo_gitflow_lucas#readme",
+  "dependencies": {
+    "mongoose": "^8.19.2"
+  }
+}
